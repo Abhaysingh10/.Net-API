@@ -1,0 +1,6 @@
+﻿INSERT INTO [dbo].[User] ([username], [password], [book], [pages], [author], [releaseData]) VALUES (N'Abhay', N'abhay123', N'Dune                                              ', N'251       ', N'Reynolds  ', N'2004-08-21')
+INSERT INTO [dbo].[User] ([username], [password], [book], [pages], [author], [releaseData]) VALUES (N'Amit', N'Amit123', N'Pablo                                             ', N'365       ', N'Brian     ', N'2002-12-08')
+INSERT INTO [dbo].[User] ([username], [password], [book], [pages], [author], [releaseData]) VALUES (N'Aswin', N'aswin123', N'Harry                                             ', N'450       ', N'Charles   ', N'2006-12-12')
+INSERT INTO [dbo].[User] ([username], [password], [book], [pages], [author], [releaseData]) VALUES (N'Easwaran', N'Easwaran123', N'Potter                                            ', N'840       ', N'Luna      ', N'1999-06-13')
+INSERT INTO [dbo].[User] ([username], [password], [book], [pages], [author], [releaseData]) VALUES (N'Mani', N'Mani123', N'Book                                              ', N'263       ', N'Peter     ', N'1985-10-15')
+INSERT INTO [dbo].[User] ([username], [password], [book], [pages], [author], [releaseData]) VALUES (N'Rohan', N'Rohan123', N'The_Al                                            ', N'500       ', N'Naiomi    ', N'2000-12-25')
